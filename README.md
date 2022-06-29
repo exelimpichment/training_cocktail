@@ -14,6 +14,6 @@
 npm install react-router-dom@6
 ```
 
-##NOTE
+## NOTE
 you can find the app up and runing here: 
 https://cocktailstraining.netlify.app/
